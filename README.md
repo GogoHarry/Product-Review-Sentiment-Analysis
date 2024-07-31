@@ -38,9 +38,7 @@ This project aims to build an end-to-end sentiment analysis solution that can ex
 
 ## Usage
 1. Train the model and save the preprocessor and model:
-    ```bash
-    python train_model.py
-    ```
+
 2. Run the Streamlit web application:
     ```bash
     streamlit run app.py
