@@ -20,16 +20,16 @@ This project aims to build an end-to-end sentiment analysis solution that can ex
     ```
 2. Create a virtual environment:
     ```bash
-    python -m internship_project_venv
+    python -m sentiment_analysis_venv
     ```
 3. Activate the virtual environment:
     - On Windows:
         ```bash
-        internship_project_venv\Scripts\activate
+        sentiment_analysis_venv\Scripts\activate
         ```
     - On macOS/Linux:
         ```bash
-        source internship_project_venv/bin/activate
+        source sentiment_analysis_venv/bin/activate
         ```
 4. Install the dependencies:
     ```bash
