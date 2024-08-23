@@ -1,5 +1,8 @@
 # Product-Review-Sentiment-Analysis
 
+<video src="https://private-user-images.githubusercontent.com/82883963/360984159-27ec60e6-b168-495e-9d42-66caa1401957.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0Mjc4MzYsIm5iZiI6MTcyNDQyNzUzNiwicGF0aCI6Ii84Mjg4Mzk2My8zNjA5ODQxNTktMjdlYzYwZTYtYjE2OC00OTVlLTlkNDItNjZjYWExNDAxOTU3Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIzVDE1Mzg1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThhZjcwM2JhODkxOGI0ZDRjZTBlMzQ4Mzk5Zjk0NDdhNzA0YTA2MGM3NGY1OWU5ODU3Y2Q0OTM3NGExODgyMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.T-twcRou8v68a1fmPbcanhMqy1j7xBSXLvjRvMKwnFU" controls="controls" style="max-width: 100%;">
+</video>
+
 This project aims to build an end-to-end sentiment analysis solution that can extract, preprocess, analyze, and visualize customer sentiment from textual reviews. This solution will provide valuable insights to our business stakeholders, empowering them to make data-driven decisions and enhance the overall customer experience.
 
 ## Table of Contents
